@@ -32,6 +32,6 @@ out
 *.iml
 .DS_Store
 vars.local.yml
-
+.gradle
 # Java heap dumps
 *.hprof
